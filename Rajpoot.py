@@ -1,7 +1,7 @@
 # coding: utf-8
 # Decompiled By RANA RAJPOOT
-# Github : https://github.com/Usman132/RAJPOOT1100
-# uncompyle6 version 3.7.9
+# Github : https://github.com/Usman132/RAJPOOT22
+# uncompyle6 version 1.2
 # Original written By RANA RAJPOOT
 
 
@@ -87,9 +87,9 @@ logo = """
 
 \x1b[1;96m_________________________________________________
 \x1b[1;96m\033[1;96mAuthor   :            RANA RAJPOOT
-\x1b[1;96m\033[1;96mFacebook :            RAJPOOT
-\x1b[1;96m\033[1;96mGitHub   :            Usman132
-\x1b[1;96m\033[1;96mVersion  :            RAJPOOT PRO
+\x1b[1;96m\033[1;96mFacebook :            https://www.facebook.com/subhan.shahzad.52012
+\x1b[1;96m\033[1;96mGitHub   :            https://github.com/Usman132/RAJPOOT22
+\x1b[1;96m\033[1;96mVersion  :                1.2
 \x1b[1;96m__________________________________________________
                                                  """
 logo1 = '     \n\n\x1b[4;96mSELECT PAK  SIM CODE \x1b[1;0m\n\x1b[1;96m[1] Jazz    \x1b[1;97m 00,01,02,03,04,05,06,07,08\n\x1b[1;96m[2] Zong    \x1b[1;97m 11,12,13,14,15,16,17\n\x1b[1;96m[3] Warid   \x1b[1;97m 21,22,23,24,25\n\x1b[1;96m[4] Ufone   \x1b[1;97m 30,31,32,33,34,35\n\x1b[1;96m[5] Telenor \x1b[1;97m 40,41,42,43,44,45,46,47\n\n\n\n\x1bx \x1b[1;97m\x1b[1;0m\n'
